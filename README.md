@@ -1,7 +1,7 @@
 # estudo-do-site-do-java
- Estarei recriando  a pagina de dowload do java, esse conteúdo é apenas para estudo, duvidas leia todo o readme.
+Este projeto é uma recriação da página de download do Java, feito apenas para fins de estudo em desenvolvimento web.
 
-Esse conteúdo não é oficial do java, é apenas um estudo de desenvolvimento web, todo o conteúdo contido nesse projeto é de uso totalmente estudantil.
+⚠️ Atenção:
+Este conteúdo não é oficial e não pertence ao site Java.com. Tudo aqui é apenas para fins educacionais.
 
-Creditos ao: https://www.java.com/pt-BR/download/
-
+🔗 Site original: https://www.java.com/pt-BR/download/
